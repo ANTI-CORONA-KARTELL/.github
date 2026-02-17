@@ -1,3 +1,3 @@
 ## ANTI-CORONA-KARTELL
 
-Eine junge Gaming-Community, für gemeinsamen Spaß beim Spielen.
+Eine junge Gaming-Community, von Gamern für Gamer.
