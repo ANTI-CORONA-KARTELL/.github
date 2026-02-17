@@ -1,0 +1,2 @@
+# .github
+ANTI-CORONA-KARTELL
