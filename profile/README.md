@@ -1,6 +1,6 @@
 # ANTI-CORONA-KARTELL
 
-Willkommen beim ANTI-CORONA-KARTELL. Einer jungen Gaming-Community. Von Gamern für Gamer.
+**Willkommen beim ANTI-CORONA-KARTELL. Einer jungen Gaming-Community. Von Gamern für Gamer.**
 
 Über diese GitHub-Organisation verwalten wir alle relevanten Projekte zu unserer Homepage.
 
