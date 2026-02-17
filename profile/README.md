@@ -1,4 +1,3 @@
-![Logo](https://anti-corona-kartell.de/logo.png)
 # ANTI-CORONA-KARTELL
 
 Willkommen beim ANTI-CORONA-KARTELL. Einer jungen Gaming-Community. Von Gamern für Gamer.
@@ -8,5 +7,3 @@ Willkommen beim ANTI-CORONA-KARTELL. Einer jungen Gaming-Community. Von Gamern f
 Ansonsten suchen wir immer coole Leute, die einfach Bock haben, in einer entspannten Runde gemeinsam zu zocken – ganz ohne Stress, Ruhm oder Profitgedanken.
 
 Also, komm und steig mit ein beim ANTI-CORONA-KARTELL!
-
-
