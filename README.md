@@ -1,2 +1,3 @@
-# .github
-ANTI-CORONA-KARTELL
+## ANTI-CORONA-KARTELL
+
+Eine junge Gaming-Community, für gemeinsamen Spaß beim Spielen.
